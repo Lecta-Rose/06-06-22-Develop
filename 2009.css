@@ -1,0 +1,74 @@
+body {background-image: url("https://static.euronews.com/articles/stories/06/17/53/80/1100x619_cmsv2_a0a5e7cc-ffae-5264-a7c6-8bd86d6b94e7-6175380.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .mytext4 { font-size: 1.1.25em;
+    color: black;
+    }
+    .title {font-size: 2.5em;
+        display: flex;
+        justify-content: center;
+        }
+    
+    p1 {display: flex;
+        justify-content: center;
+        justify-content: space-between;
+        color:pink;
+        font-weight: bold;}
+
+    h1 {display: flex;
+        justify-content: center;
+        }
+    
+    .container {
+        display: flex;
+        flex-flow: row;
+        min-height: 100vh;
+        flex-wrap: wrap;
+    }
+    
+    .box {
+        color: white;
+        display: flex;
+        flex-direction: column;
+        font-size: 1.25em;
+        text-align: left;
+        justify-content: left;
+        align-items: flex-start;
+        /*padding: 15px;*/
+    
+    }
+    .box1 {width: 30%;}
+        .box2 {width: 35%;}
+        .box3 {width: 20%; font-size: 1.5em; text-align: center; color: #fc237e;}
+        .box4 {width: 20%; font-size: 1.5em; text-align: center; color: #fc237e;}
+        .box5 {width: 20%; font-size: 1.5em; text-align: center;color: #fc237e;}
+        .box6 {width: 20%; font-size: 1.5em; text-align: center; color: #fc237e;}
+        .box7 {width: 20%; font-size: 1.5em; text-align: center; color: #fc237e;}
+
+        .container2 {
+            display: flex;
+            flex-flow: row;
+            justify-content: center;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+
+        .container3 {
+            display: flex;
+            flex-flow: row;
+            width: 62%;
+        }
+        .container4 {
+            display: flex;
+            flex-flow: row;
+            justify-content: center;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+        .container5 {
+            display: flex;
+            flex-flow: row;
+            width: 50%;
+            justify-content: center;
+        }

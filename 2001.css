@@ -1,0 +1,75 @@
+body {background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Taipei_Skyline_2020.jpg/1200px-Taipei_Skyline_2020.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+    .mytext2 { font-size: 1.25em;
+    color: pink;
+    }
+    .title {font-size: 2.5em;
+        display: flex;
+        justify-content: center;
+        }
+
+    p1 {display: flex;
+        justify-content: center;
+        justify-content: space-between;
+        color:pink;
+        font-weight: bold;}
+
+    h1 {display: flex;
+        justify-content: center;
+        }
+    
+    .container {
+        display: flex;
+        flex-flow: row;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    
+    .box {
+        color: pink;
+        display: flex;
+        flex-direction: column;
+        font-size: 1.25em;
+        text-align: left;
+        justify-content: left;
+        align-items: flex-start;
+        font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center;}
+        /*padding: 15px;*/
+
+        .box1 {width: 30%;}
+        .box2 {height:25%;}
+        .box3 {width: 20%; font-size: 1.5em; text-align: center; color: pink}
+        .box4 {width: 20%; font-size: 1.5em; text-align: center; color: pink;}
+        .box5 {width: 20%; font-size: 1.5em; text-align: center;color: pink;}
+        .box6 {width: 20%; font-size: 1.5em; text-align: center; color: pink;}
+        .box7 {width: 20%; font-size: 1.5em; text-align: center; color: pink;}
+
+        .container2 {
+            display: flex;
+            flex-flow: row;
+            justify-content: center;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+
+        .container3 {
+            background-color: rgba(rgba(187, 176, 176, 0.637), green, blue, alpha);
+            display: flex;
+            flex-flow: row;
+            width: 62%;
+        }
+        .container4 {
+            display: flex;
+            flex-flow: row;
+            justify-content: center;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+        .container5 {
+            display: flex;
+            flex-flow: row;
+            width: 50%;
+            justify-content: center;
+        }
