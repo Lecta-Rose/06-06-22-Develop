@@ -1,9 +1,9 @@
-body {background-image: url("https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/02/a0002533/img/basic/a0002533_main.jpg?20210122155600&q=80&rw=750&rh=536");
+body {background-image: url("homebackground.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
 .mytext { font-size: 1.25em;
-color: rgba(54, 12, 204, 0.966);
+color: black;
 }
 .title {font-size: 2.5em;
 color: black;
@@ -27,7 +27,7 @@ justify-content: center;
 }
 
 .box {
-    color: rgb(54, 63, 197);
+    color: black;
     font-size: 1.25em;
     font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center;
     /*padding: 15px;*/
