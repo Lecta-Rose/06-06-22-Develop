@@ -46,7 +46,7 @@ body {background-image: url("https://static.euronews.com/articles/stories/06/17/
         .box6 {width: 20%; font-size: 1.5em; text-align: center;}
         .box7 {width: 20%; font-size: 1.5em; text-align: center;}
 
-        .container2 {
+        #container2 {
             display: flex;
             flex-flow: row;
             justify-content: center;
